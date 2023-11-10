@@ -1,5 +1,5 @@
 
-public class formativeProjectAPCSA {
+public class StarShapes {
     
     public static void main(String[] args){
 
